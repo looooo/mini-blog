@@ -9,4 +9,7 @@ My name is Lorenz Lechner. I work as a bicycle-courier and I am a FreeCAD enthus
 * triggereing the freecad-feedstock every sunday
 
 ## 2020
+* 200106 upload freecad 0.19pre with occt7.4 to freecad/label/testing
+* 200105 [package smesh8.3 for occt7.4](https://github.com/conda-forge/smesh-feedstock/pull/27)  
+big thanks to @trelau for making this possible!!!
 * 200102 Updating libredwg-feedstock to 0.9.3.
