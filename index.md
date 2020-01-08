@@ -9,6 +9,8 @@ My name is Lorenz Lechner. I work as a bicycle-courier and I am a FreeCAD enthus
 * triggereing the freecad-feedstock every sunday
 
 ## 2020
+
+### January
 * 200107 upload freecad 0.19pre with python3.8 to freecad/label/testing
 * 200106 update freecad-feedstock (0.19pre) to use occt7.4
 * 200106 upload freecad 0.19pre with occt7.4 to freecad/label/testing
