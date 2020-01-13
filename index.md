@@ -12,7 +12,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## 2020
 
 ### January
-* 200113 upload solvespace linux package for py3.8 to channel freecad
+* 200113 upload solvespace linux package for py3.8 to channel freecad  
 * 200112 upload pyside2 5.13 package for py3.8 to freecad/label/testing
 and create [PR](https://github.com/conda-forge/pyside2-feedstock/pull/62) for pyside-feedstock
 * 200107 upload freecad 0.19pre with python3.8 to freecad/label/testing
