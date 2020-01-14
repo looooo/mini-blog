@@ -12,6 +12,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## 2020
 
 ### January
+* 200114 [update simage-feedstock to simage 1.8.0](https://github.com/conda-forge/simage-feedstock/pull/11#partial-pull-merging), [create PR for simage](https://github.com/coin3d/simage/pull/31) to disable cpack by default
 * 200114 update weekly builds to py38
 * 200114 create [solvespace-feedstock](https://github.com/looooo/solvespace-feedstock) and upload py38 packages
 * 200113 upload solvespace linux package for py3.8 to channel freecad  
