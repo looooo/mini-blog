@@ -12,6 +12,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## 2020
 
 ### January
+* 200114 update weekly builds to py38 (win and linux, osx still needs solvespace to be build against py3.8)
 * 200113 upload solvespace linux package for py3.8 to channel freecad  
 * 200112 upload pyside2 5.13 package for py3.8 to freecad/label/testing
 and create [PR](https://github.com/conda-forge/pyside2-feedstock/pull/62) for pyside-feedstock
