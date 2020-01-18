@@ -1,6 +1,10 @@
 ## About me
 My name is Lorenz Lechner. I work as a bicycle-courier and I am a FreeCAD enthusiast. My support for FreeCAD started in 2013 and includes the maintenance of conda-packages. In recent years I packaged a lot of dependencies for FreeCAD [1] and started to create packages of the latest source on every Sunday [2].  
 You can support my work via [liberapay](https://de.liberapay.com/looooo/).
+[quote=wmayer post_id=361510 time=1579346551 user_id=69]
+git commit 6866397c1
+[/quote]
+
 
 [1] https://github.com/FreeCAD/FreeCAD_Conda  
 [2] https://github.com/looooo/freecad-feedstock
@@ -13,6 +17,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### January
 
+* 200118 [update pivy-feedstock to 0.6.5](https://github.com/conda-forge/pivy-feedstock/pull/22)
 * 200117 [update soqt-feedstock to 1.6.0](https://github.com/conda-forge/soqt-feedstock/pull/6)
 * 200117 [update coin3d-feedstock](https://github.com/conda-forge/coin3d-feedstock/pull/15)
 * 200114 [update simage-feedstock to simage 1.8.0](https://github.com/conda-forge/simage-feedstock/pull/11#partial-pull-merging), [create PR for simage](https://github.com/coin3d/simage/pull/31) to disable cpack by default
