@@ -17,6 +17,7 @@ git commit 6866397c1
 
 ### January
 
+* 200120 [update libredwg-feedstock to 0.9.3.2600](https://github.com/conda-forge/libredwg-feedstock/pull/10)
 * 200118 [update pivy-feedstock to 0.6.5](https://github.com/conda-forge/pivy-feedstock/pull/22)
 * 200117 [update soqt-feedstock to 1.6.0](https://github.com/conda-forge/soqt-feedstock/pull/6)
 * 200117 [update coin3d-feedstock](https://github.com/conda-forge/coin3d-feedstock/pull/15)
