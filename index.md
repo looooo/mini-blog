@@ -17,6 +17,7 @@ git commit 6866397c1
 
 ### January
 
+* 200123 [work on macOS dmg problem](https://forum.freecadweb.org/viewtopic.php?f=22&t=42644)
 * 200121 [update calculix feedstock](https://github.com/conda-forge/calculix-feedstock/pull/13)
 * 200120 [update libredwg-feedstock to 0.9.3.2600](https://github.com/conda-forge/libredwg-feedstock/pull/10)
 * 200118 [update pivy-feedstock to 0.6.5](https://github.com/conda-forge/pivy-feedstock/pull/22)
