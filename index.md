@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### January
 
+* 200126 [update libredwg-feedstock to 0.10.1.2729](https://github.com/conda-forge/libredwg-feedstock/pull/14)
 * 200123 [work on macOS dmg problem](https://forum.freecadweb.org/viewtopic.php?f=22&t=42644)
 * 200121 [update calculix feedstock](https://github.com/conda-forge/calculix-feedstock/pull/13)
 * 200120 [update libredwg-feedstock to 0.9.3.2600](https://github.com/conda-forge/libredwg-feedstock/pull/10)
