@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### January
 
+* 200128 add conda-package for asm3 to appimage: [freecad.asm3-package](https://github.com/FreeCAD/FreeCAD_Conda/tree/master/freecad.asm3), [diff for asm3](https://github.com/realthunder/FreeCAD_assembly3/pull/283), [appimage-update](https://github.com/FreeCAD/FreeCAD-AppImage/commit/3bc8bb415c1050576d8f9bf2a2d8b46a4fa91bfc)
 * 200127 [print dependencies for appimage for debugging](https://github.com/FreeCAD/FreeCAD-AppImage/pull/32)
 * 200126 [update libredwg-feedstock to 0.10.1.2729](https://github.com/conda-forge/libredwg-feedstock/pull/14)
 * 200123 [work on macOS dmg problem](https://forum.freecadweb.org/viewtopic.php?f=22&t=42644)
