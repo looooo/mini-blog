@@ -14,7 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### February
 
-* 200201 start with aarch migration for pivy: https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/388
+* 200201 [start with aarch migration for pivy](https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/388)
 
 ### January
 
