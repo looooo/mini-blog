@@ -12,6 +12,10 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+### February
+
+* 200201 start with aarch migration for pivy: https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/388
+
 ### January
 
 * 200128 add conda-package for asm3 to appimage: [freecad.asm3-package](https://github.com/FreeCAD/FreeCAD_Conda/tree/master/freecad.asm3), [diff for asm3](https://github.com/realthunder/FreeCAD_assembly3/pull/283), [appimage-update](https://github.com/FreeCAD/FreeCAD-AppImage/commit/3bc8bb415c1050576d8f9bf2a2d8b46a4fa91bfc)
