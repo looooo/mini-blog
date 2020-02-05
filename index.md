@@ -1,10 +1,6 @@
 ## About me
-My name is Lorenz Lechner. I work as a bicycle-courier and I am a FreeCAD enthusiast. My support for FreeCAD started in 2013 and includes the maintenance of conda-packages. In recent years I packaged a lot of dependencies for FreeCAD [1] and started to create packages of the latest source on every Sunday [2].  
+My name is Lorenz Lechner. I work as a bicycle-courier and I am a FreeCAD enthusiast. My support for FreeCAD started in 2013 and includes the maintenance of conda-packages. In recent years I packaged a lot of [dependencies for FreeCAD](https://github.com/FreeCAD/FreeCAD_Conda) and started to create [packages of the latest source](https://github.com/looooo/freecad-feedstock) on every sunday.  
 You can support my work via [liberapay](https://de.liberapay.com/looooo/).
-
-
-[1] https://github.com/FreeCAD/FreeCAD_Conda  
-[2] https://github.com/looooo/freecad-feedstock
 
 
 ## Continous work:
@@ -14,6 +10,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### February
 
+* 200205 [Add some modification to the gear-workbench](https://github.com/looooo/freecad.gears/compare/f77e2793ef97def9bf7f8c7ceca540714a3e66d4...3eea5eb8ca3870042c17d976972683d691b7a7dd)
 * 200201 [start with aarch migration for pivy](https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/388)
 
 ### January
