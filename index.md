@@ -10,7 +10,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### February
 
-* 200222 feedstocks are updated to boost 1.72 
+* 200222 updating several feedstocks to boost 1.72 
 * 200212 [Add pycollada to conda-forge](https://github.com/conda-forge/staged-recipes/pull/10837)
 * 200210 [Trying to enable osx space-mouse support](https://github.com/looooo/freecad-feedstock/commit/20646baef17a688191a759c4b641487f7a30cbbf)
 * 200205 [Add some modification to the gear-workbench](https://github.com/looooo/freecad.gears/compare/f77e2793ef97def9bf7f8c7ceca540714a3e66d4...3eea5eb8ca3870042c17d976972683d691b7a7dd)
