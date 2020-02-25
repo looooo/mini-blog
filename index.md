@@ -10,6 +10,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### February
 
+* 200225 [work on pythonocc recipe](https://github.com/conda-forge/staged-recipes/pull/10919)
 * 200222 updating several feedstocks to boost 1.72 
 * 200212 [Add pycollada to conda-forge](https://github.com/conda-forge/staged-recipes/pull/10837)
 * 200210 [Trying to enable osx space-mouse support](https://github.com/looooo/freecad-feedstock/commit/20646baef17a688191a759c4b641487f7a30cbbf)
