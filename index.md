@@ -10,6 +10,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### February
 
+* 200226 [update occt-feedstock](https://github.com/conda-forge/occt-feedstock/pull/35)
 * 200225 [work on pythonocc recipe](https://github.com/conda-forge/staged-recipes/pull/10919)
 * 200222 updating several feedstocks to boost 1.72 
 * 200212 [Add pycollada to conda-forge](https://github.com/conda-forge/staged-recipes/pull/10837)
