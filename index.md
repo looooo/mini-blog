@@ -8,6 +8,10 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+### March
+
+* 200302 [patch libspnav](https://github.com/conda-forge/libspnav-feedstock/commit/317881d07573ea6a195d5e985dc06328be93e88e)
+
 ### February
 
 * 200226 [update occt-feedstock](https://github.com/conda-forge/occt-feedstock/pull/35)
