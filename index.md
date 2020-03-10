@@ -9,7 +9,8 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## 2020
 
 ### March
-
+* 200310 [add windows support for libredwg](https://github.com/conda-forge/libredwg-feedstock/pull/23)
+* 200310 [update coin3d-feedstock](https://github.com/conda-forge/coin3d-feedstock/pull/17)
 * 200310 [add suplerglu to windows coin3d-package](https://github.com/coin3d/coin/issues/375)
 * 200302 [patch libspnav](https://github.com/conda-forge/libspnav-feedstock/commit/317881d07573ea6a195d5e985dc06328be93e88e)
 
