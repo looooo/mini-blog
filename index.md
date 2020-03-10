@@ -10,6 +10,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### March
 
+* 200310 [add suplerglu to windows coin3d-package](https://github.com/coin3d/coin/issues/375)
 * 200302 [patch libspnav](https://github.com/conda-forge/libspnav-feedstock/commit/317881d07573ea6a195d5e985dc06328be93e88e)
 
 ### February
