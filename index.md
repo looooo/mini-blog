@@ -1,10 +1,15 @@
 ## About me
 My name is Lorenz Lechner. I work as a bicycle-courier and I am a FreeCAD enthusiast. My support for FreeCAD started in 2013 and includes the maintenance of conda-packages. In recent years I packaged a lot of [dependencies for FreeCAD](https://github.com/FreeCAD/FreeCAD_Conda) and started to create [packages of the latest source](https://github.com/looooo/freecad-feedstock) on every sunday.  
+Other topics I was involved in are:
+- python3 porting
+- freecad-namespace-packages  
+
 You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 
 ## Continous work:
 * triggereing the freecad-feedstock every sunday
+* maintaining pivy
 
 ## 2020
 
