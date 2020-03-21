@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## 2020
 
 ### March
+* 200321 [appimage_updater](https://github.com/FreeCAD/FreeCAD_Conda/tree/master/appimage-updater-bridge)
 * 200312 [pivy: add SoGeo bindings](https://github.com/coin3d/pivy/commit/3b073f4309bd952f3078088178d9985f1969c556)
 * 200310 [add windows support for libredwg](https://github.com/conda-forge/libredwg-feedstock/pull/23)
 * 200310 [update coin3d-feedstock](https://github.com/conda-forge/coin3d-feedstock/pull/17)
