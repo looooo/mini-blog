@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## 2020
 
 ### April
+* 200407 [freecad.gears: add module to compute 2d profiles](https://github.com/looooo/freecad.gears/issues/38)
 * 200402 [add xlutils-feedstock](https://github.com/conda-forge/xlutils-feedstock)
 
 ### March
