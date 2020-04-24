@@ -7,10 +7,6 @@ Other topics I was involved in are:
 You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 
-## Continous work:
-* triggereing the freecad-feedstock every sunday
-* maintaining pivy
-
 ## 2020
 
 ### April
