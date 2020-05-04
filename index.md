@@ -9,6 +9,11 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+### May
+* 200504 creating freecad0.19.alpha2 release on conda-forge
+* 200502 working on netgen 6.2.2004 support
+* 200501 pin smesh to exact version of netgen
+
 ### April
 * 200424 [move pivy build setup to cmake](https://github.com/coin3d/pivy/pull/69)
 * 200407 [freecad.gears: add module to compute 2d profiles](https://github.com/looooo/freecad.gears/issues/38)
