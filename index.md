@@ -10,6 +10,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## 2020
 
 ### May
+* 200527 work on appimage-updater-tool
 * 200507 work on netgen-feedstock
 * 200507 patching smesh for netgen 6.2.2004
 * 200504 creating freecad0.19.alpha2 release on conda-forge
