@@ -9,6 +9,10 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+### July
+
+* 200715 pivy 0.6.6.a0 release (smake support) 
+
 ### May
 * 200527 work on appimage-updater-tool
 * 200507 work on netgen-feedstock
