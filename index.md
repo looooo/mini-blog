@@ -11,7 +11,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### July
 
-* 200716 [add latern gear to freecad.gears](https://github.com/looooo/freecad.gears/commit/ecca07dcad1f51e1bac3bdbf5cf4972999673de3)
+* 200717 [add latern gear to freecad.gears](https://github.com/looooo/freecad.gears/commit/ecca07dcad1f51e1bac3bdbf5cf4972999673de3)
 * 200715 [add timing gears to freecad.gears](https://github.com/looooo/freecad.gears/commit/9757de0c58a6fec58686aa9d7822e7d7c93383fb)
 * 200715 pivy 0.6.6.a0 release (cmake support) 
 
