@@ -13,6 +13,10 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+### Augusgt
+
+* 200802 [calculix2.17](https://github.com/conda-forge/calculix-feedstock/pull/15)
+
 ### July
 
 * 200728 [work on ccx-2.17 feedstock](https://github.com/conda-forge/calculix-feedstock/pull/15)
