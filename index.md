@@ -15,6 +15,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ### Augusgt
 
+* 200805 update to libredwg v0.10.1.3776
 * 200804 occt-vtk8-pining
 * 200802 [calculix2.17](https://github.com/conda-forge/calculix-feedstock/pull/15)
 
