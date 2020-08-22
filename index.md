@@ -13,6 +13,8 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+* 200822 [include pythonocc-core in bundles](https://github.com/FreeCAD/FreeCAD-AppImage/commit/41ebeb8681eff9604d0584c3586e95cec78d0711)
+* 200821 [fix calculix windows build](https://github.com/conda-forge/calculix-feedstock/commit/73386b5f95c631b356d3f8ac975ad1a8ca1d5f1a)
 * 200805 update to libredwg v0.10.1.3776
 * 200804 occt-vtk8-pining
 * 200728 [work on ccx-2.17 feedstock](https://github.com/conda-forge/calculix-feedstock/pull/15)
