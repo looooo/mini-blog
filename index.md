@@ -13,6 +13,9 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+* 200910 [work on ifcopenshell feedstock](https://github.com/conda-forge/ifcopenshell-feedstock/pull/11)
+* 200910 [update freecad.asm3 feedstock](https://github.com/looooo/solvespace-feedstock/)
+* 200910 [update solvespace feedstock](https://github.com/looooo/freecad.asm3-feedstock)
 * 200822 [include pythonocc-core in bundles](https://github.com/FreeCAD/FreeCAD-AppImage/commit/41ebeb8681eff9604d0584c3586e95cec78d0711)
 * 200821 [fix calculix windows build](https://github.com/conda-forge/calculix-feedstock/commit/73386b5f95c631b356d3f8ac975ad1a8ca1d5f1a)
 * 200805 update to libredwg v0.10.1.3776
