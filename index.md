@@ -13,6 +13,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+* 200929 rework the matplotlib-integration (use freecad as a matplotlib backend)
 * 200920 update ifcopenshell to boost 1.74
 * 200910 [work on ifcopenshell feedstock](https://github.com/conda-forge/ifcopenshell-feedstock/pull/11)
 * 200910 [update freecad.asm3 feedstock](https://github.com/looooo/solvespace-feedstock/)
