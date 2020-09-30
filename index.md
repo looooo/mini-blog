@@ -13,6 +13,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 
+* 200930 add [appimage-updater-bridge-feedstock](https://github.com/conda-forge/appimage-updater-bridge-feedstock)
 * 200929 rework the matplotlib-integration (use freecad as a matplotlib backend)
 * 200920 update ifcopenshell to boost 1.74
 * 200910 [work on ifcopenshell feedstock](https://github.com/conda-forge/ifcopenshell-feedstock/pull/11)
