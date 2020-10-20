@@ -10,6 +10,8 @@ Other topics I was involved in are:
 
 You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
+## Contributions
+<img src="https://grass-graph.moshimo.works/images/looooo.png">
 
 ## 2020
 
