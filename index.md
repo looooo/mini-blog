@@ -15,6 +15,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
 ## 2020
 * 201020 work on appimage/bundle-scripts: change workflow to use branches for different releases
+* 2010xx ongoing migration py3.9 / gcc9 / boost 1.74
 * 200930 add [appimage-updater-bridge-feedstock](https://github.com/conda-forge/appimage-updater-bridge-feedstock)
 * 200929 rework the matplotlib-integration (use freecad as a matplotlib backend)
 * 200920 update ifcopenshell to boost 1.74
