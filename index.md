@@ -14,7 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 <img src="https://grass-graph.moshimo.works/images/looooo.png">
 
 ## 2020
-
+* 201020 work on appimage/bundle-scripts: change workflow to use branches for different releases
 * 200930 add [appimage-updater-bridge-feedstock](https://github.com/conda-forge/appimage-updater-bridge-feedstock)
 * 200929 rework the matplotlib-integration (use freecad as a matplotlib backend)
 * 200920 update ifcopenshell to boost 1.74
