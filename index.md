@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 <img src="https://grass-graph.moshimo.works/images/looooo.png">
 
 ## 2020
+* 201111 update opencamlib-feedstock (py3.9 / boost1.74)
 * 201020 work on appimage/bundle-scripts: change workflow to use branches for different releases
 * 2010xx ongoing migration py3.9 / gcc9 / boost 1.74
 * 200930 add [appimage-updater-bridge-feedstock](https://github.com/conda-forge/appimage-updater-bridge-feedstock)
