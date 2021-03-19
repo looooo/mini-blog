@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 <img src="https://grass-graph.moshimo.works/images/looooo.png">
 
 ## 2021
+* release pivy 0.6.6
 * use github actions to create freecad-bundles
 * update freecad related conda-packages to occt7.5
 * update freecad related conda-packages to vtk9
