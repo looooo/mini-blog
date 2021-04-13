@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 <img src="https://grass-graph.moshimo.works/images/looooo.png">
 
 ## 2021
+* [build libxfoil for windows](https://github.com/conda-forge/libxfoil-feedstock/pull/7)
 * update weekly builds to occt7.5 / vtk9 / py3.9
 * update gmsh to work with occt7.5
 * [conda-based freecad 0.19.1-release-bundles](https://github.com/FreeCAD/FreeCAD/releases/tag/0.19.1)
