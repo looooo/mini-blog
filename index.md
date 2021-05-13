@@ -14,6 +14,7 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 <img src="https://grass-graph.moshimo.works/images/looooo.png">
 
 ## 2021
+* [update occt-feedstock to 7.5.2](https://github.com/conda-forge/occt-feedstock/pull/67)
 * [create github-action script to test pivy](https://github.com/coin3d/pivy/pull/83)
 * [create feedstock for fcitx](https://github.com/conda-forge/staged-recipes/pull/14131)
 * [build libxfoil for windows](https://github.com/conda-forge/libxfoil-feedstock/pull/7)
