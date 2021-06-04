@@ -13,6 +13,9 @@ You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 ## Contributions
 <img src="https://grass-graph.moshimo.works/images/looooo.png">
 
+## megagrants sponsorship (freecad.gears)
+* 210604 [add fillet properties to involute gears](https://github.com/looooo/freecad.gears/issues/50#issuecomment-854840048)
+
 ## 2021
 * [update occt-feedstock to 7.5.2](https://github.com/conda-forge/occt-feedstock/pull/67)
 * [create github-action script to test pivy](https://github.com/coin3d/pivy/pull/83)
