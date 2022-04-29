@@ -10,11 +10,22 @@ Other topics I was involved in are:
 
 You can support my work via [liberapay](https://de.liberapay.com/looooo/).
 
-## Contributions
-<img src="https://grass-graph.moshimo.works/images/looooo.png">
-
 ## megagrants sponsorship (freecad.gears)
 * 210604 [add fillet properties to involute gears](https://github.com/looooo/freecad.gears/issues/50#issuecomment-854840048)
+
+## 2022
+goal: update freecad to qt5.15, create freecad package for osx-arm, linux aarch64
+- [ ] wait until migration for qt 5.15 is ready
+
+goal: update freecad to occt7.6: (not a big priority)
+- [ ] update smesh to occt7.6
+- [ ] update ifcopenshell to occt7.6
+- [ ] update pythonocc-core to occt7.6
+
+goal: update freecad to python3.10
+- [ ] occt7.5.3 without tbb + vtk9.1.0 https://github.com/conda-forge/occt-feedstock/pull/82
+- [ ] update smesh to vtk9.1.0 https://github.com/conda-forge/smesh-feedstock/pull/55
+- [ ] pythonocc update to python 3.10 https://github.com/conda-forge/pythonocc-core-feedstock/pull/12
 
 ## 2021
 * [update occt-feedstock to 7.5.2](https://github.com/conda-forge/occt-feedstock/pull/67)
