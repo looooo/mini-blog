@@ -23,8 +23,8 @@ goal: update freecad to occt7.6: (not a big priority)
 - [ ] update pythonocc-core to occt7.6
 
 goal: update freecad to python3.10
-- [x] [occt7.5.3 without tbb + vtk9.1.0] (https://github.com/conda-forge/occt-feedstock/pull/82)
-- [ ] [update smesh to vtk9.1.0] (https://github.com/conda-forge/smesh-feedstock/pull/55)
+- [x] [occt7.5.3 without tbb + vtk9.1.0](https://github.com/conda-forge/occt-feedstock/pull/82)
+- [ ] [update smesh to vtk9.1.0](https://github.com/conda-forge/smesh-feedstock/pull/55)
 - [x] [pythonocc update to python 3.10](https://github.com/conda-forge/pythonocc-core-feedstock/pull/12)
 
 ## 2021
